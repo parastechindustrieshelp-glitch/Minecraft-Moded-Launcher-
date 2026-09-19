@@ -1,0 +1,11 @@
+{
+    "versions": [
+        {"id": "1.5.2", "name": "Release 1.5.2", "folder": "1.5.2", "desc": "Classic Redstone Update"},
+        {"id": "1.8.8", "name": "Release 1.8.8", "folder": "1.8", "desc": "Bountiful Update (PvP Favorite)"},
+        {"id": "1.12.2", "name": "Release 1.12.2", "folder": "1.12.2", "desc": "World of Color Update"},
+        {"id": "1.14.4", "name": "Release 1.14.4", "folder": "1.14.4", "desc": "TechnoBlade's era"},
+        {"id": "1.16.5", "name": "Release 1.16.5", "folder": "1.16.5", "desc": "The Nether Update"},
+        {"id": "1.20", "name": "Release 1.20", "folder": "1.20", "desc": "Trails & Tales Update"},
+        {"id": "1.21.11", "name": "Release 1.21.11", "folder": "1.21.11", "desc": "Tricky Trials Update"}
+    ]
+}

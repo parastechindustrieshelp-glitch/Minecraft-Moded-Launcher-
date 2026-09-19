@@ -1,0 +1,18 @@
+# Installation Guide
+
+Follow the steps below to install and run the Minecraft Launcher either using the standalone installer or directly from Python source code.
+
+---
+
+### Option 1: Using the Setup Wizard (Recommended for Players)
+
+1. **Download Setup:** Download `MinecraftLauncher_Setup.exe`.
+2. **Run Installer:** Double-click the installer. If a Windows SmartScreen notice appears, click **More info** > **Run anyway**.
+3. **Accept Agreement:** Read and accept the terms of service.
+4. **Select Location:** Choose the installation directory (Default: `C:\Program Files\Minecraft Launcher`).
+5. **Complete Installation:** Click **Install**, then click **Finish**.
+6. **Start Launcher:** Open the app from your Desktop or Start Menu shortcut.
+7. **First Launch Setup:**
+   * Go to the **Installations** tab on the left.
+   * Click **INSTALL** on the versions you wish to play (1.5.2, 1.8.8, 1.12.2).
+   * Return to the **Play** tab, choose your installation, and click **PLAY**.

@@ -1,0 +1,13 @@
+MINECRAFT LAUNCHER - TERMS & USAGE POLICY
+
+1. ACCEPTANCE OF TERMS
+By installing, copying, or using this software ("Minecraft Launcher"), you agree to be bound by the terms of this agreement. If you do not agree, cancel the setup immediately.
+
+2. INTENDED USE & ASSETS
+This launcher is a frontend wrapper designed to manage local game files and compatibility runtimes. Minecraft, related assets, and game branding are trademarks of Mojang Synergies AB / Microsoft Corporation. This software is an independent third-party project and is not affiliated with, endorsed by, or partnered with Mojang or Microsoft.
+
+3. USER PRIVACY & DATA
+All personal save data, worlds, configuration files, and game cache are stored strictly on your local machine (%APPDATA%\.minecraft_pygames). No telemetry, usage statistics, or user files are tracked, harvested, or sent to external servers.
+
+4. DISCLAIMER OF WARRANTY
+This application is provided "AS IS", without warranty of any kind, express or implied. In no event shall the developers be held liable for any damages, loss of world saves, or system issues arising from the use or inability to use this software.

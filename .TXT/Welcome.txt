@@ -1,0 +1,15 @@
+Welcome to Minecraft Launcher Setup!
+
+Thank you for downloading Minecraft Launcher (Java Edition). This setup wizard will install the launcher and prepare all required game assets on your computer.
+
+What this launcher provides:
+  • Multi-version access (Release 1.5.2, 1.8.8, and 1.12.2).
+  • Automatic offline local server runtime.
+  • Isolated storage in %APPDATA% to protect your worlds and settings.
+
+Installation Requirements:
+  • Windows 10 or Windows 11 (64-bit recommended).
+  • Microsoft Edge WebView2 Runtime (installed automatically if missing).
+  • At least 500 MB of free hard disk space.
+
+Click "Next" to continue with the installation.

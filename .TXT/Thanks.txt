@@ -1,0 +1,15 @@
+Installation Completed Successfully!
+
+Thank you for installing Minecraft Launcher. 
+
+Getting Started:
+  1. Launch the application using the desktop shortcut.
+  2. Open the "Installations" tab from the left sidebar to enable your preferred game releases.
+  3. Return to the "Play" tab, pick your version, and hit PLAY to launch!
+
+Troubleshooting & Worlds:
+  • Your worlds and save files are safely preserved in:
+    %APPDATA%\.minecraft_pygames
+  • If you encounter graphics or render issues, verify your display drivers are up to date and WebView2 runtime is active.
+
+Enjoy your game, and thank you for playing!
